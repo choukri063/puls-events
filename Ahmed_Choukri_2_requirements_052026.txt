@@ -1,0 +1,23 @@
+# === LLM & RAG Core ===
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-mistralai==0.2.10
+mistralai==1.7.0
+
+# === Vector Store ===
+faiss-cpu==1.13.1
+
+# === Embeddings ===
+sentence-transformers==4.1.0
+
+# === Data & HTTP ===
+requests==2.32.3
+python-dotenv==1.1.0
+pandas==2.2.3
+numpy==2.2.5
+
+# === Tests ===
+pytest==8.3.5
+
+# === Utilitaires ===
+tqdm==4.67.1
